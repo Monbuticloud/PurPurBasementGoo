@@ -1,0 +1,12 @@
+
+.NoLine{
+    display: inline;
+}
+.Title{
+    font-size: 64px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#Title-1{
+    color: rgb(128, 0, 128);
+}
